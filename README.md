@@ -4,7 +4,7 @@
 
 💻 Full Stack Developer || AWS Learner || Backend Enthusiast
 
-📧 Email Me 👉 [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 Email Me 👉 eshikamathur01@gmail.com
 For Collaboration, Projects & Tech Discussions 😊
 
 🔭 I’m currently working on: Cloud & Full Stack Projects
@@ -12,7 +12,7 @@ For Collaboration, Projects & Tech Discussions 😊
 👯 I’m looking to collaborate on: Real-World Cloud Projects
 🤔 I’m looking for help with: Scalable Cloud Architecture & CI/CD
 💬 Ask me about: AWS, Node.js, MongoDB, Docker & Web Development
-📫 How to reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
+📫 How to reach me: eshikamathur01@gmail.com
 ⚡ Fun fact: I Love Building Scalable Applications 🚀
 
 ## 🌐 Socials:
