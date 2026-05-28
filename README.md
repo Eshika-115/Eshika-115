@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Eshika Mathur
 
-<!--
-**Eshika-115/Eshika-115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at IILM University
+☁️ Cloud & DevOps Enthusiast
+💻 Full Stack Developer
+🚀 AWS | Docker | Kubernetes | Node.js | MongoDB
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AWS Cloud Services
+* Docker & Kubernetes
+* DevOps & CI/CD♾️
+* Scalable Web Application Deployment
+
+🛠️ Projects:
+
+* RentNgo – Vehicle Rental Platform🚗
+* Cloudoria – Cloud Backup & Recovery System💭
+* AWS Scalable Web App Deployment🚀
+
+📊 Interests:
+
+* Cloud Computing
+* DevOps Engineering
+* Backend Development
+* Scalable Systems
+
+📫 Connect with Me:
+
+* LinkedIn: https://www.linkedin.com/in/eshika-mathur-018502295/
+* Email: eshikamathur01@gmail.com
+
