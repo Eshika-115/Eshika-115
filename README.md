@@ -1,3 +1,19 @@
+# 💫 Hi 👋, I'm Eshika Mathur
+
+☁️ A passionate Cloud & DevOps Enthusiast from India 🚀
+
+💻 Full Stack Developer || AWS Learner || Backend Enthusiast
+
+📧 Email Me 👉 [your-email@gmail.com](mailto:your-email@gmail.com)
+For Collaboration, Projects & Tech Discussions 😊
+
+🔭 I’m currently working on: Cloud & Full Stack Projects
+🌱 I’m currently learning: AWS, Docker, Kubernetes & DevOps
+👯 I’m looking to collaborate on: Real-World Cloud Projects
+🤔 I’m looking for help with: Scalable Cloud Architecture & CI/CD
+💬 Ask me about: AWS, Node.js, MongoDB, Docker & Web Development
+📫 How to reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
+⚡ Fun fact: I Love Building Scalable Applications 🚀
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshikamathur01@gmail.com) 
